@@ -6,7 +6,7 @@ This repository houses the production-grade knowledge base, operating manuals, s
 
 ## 1. Repository Navigation Directory
 
-Below is the canonical index of all active architectural and implementation documents in this repository.
+Below is the canonical index of all active architectural and GTM documents in this repository.
 
 ### Core Architectural Documents
 - [README.md](file:///Users/george/companyintelligence/README.md): Repository navigation directory.
@@ -37,7 +37,7 @@ Below is the canonical index of all active architectural and implementation docu
 
 ## 2. Hermes Skill Ecosystem (skills/)
 
-This directory houses the modular, reusable Hermes skills that dynamically selections, compose, and orchestrate specialized GTM and corporate intelligence tasks.
+This directory houses the modular, reusable Hermes skills that dynamically select, compose, and orchestrate GTM and corporate intelligence tasks.
 
 - [skills/company-intelligence/SKILL.md](file:///Users/george/companyintelligence/skills/company-intelligence/SKILL.md): Resolves target company profiles, technographics, and signals.
 - [skills/meeting-prep/SKILL.md](file:///Users/george/companyintelligence/skills/meeting-prep/SKILL.md): Compiles attendee profiles and conversation guides.
@@ -53,3 +53,17 @@ This directory houses the modular, reusable Hermes skills that dynamically selec
 - [skills/account-monitoring/SKILL.md](file:///Users/george/companyintelligence/skills/account-monitoring/SKILL.md): Tracks monitored portfolios for dynamic executive and tech stack changes.
 - [skills/osint-expert/SKILL.md](file:///Users/george/companyintelligence/skills/osint-expert/SKILL.md): Collects, validates, and indexes public data across 12 intelligence domains.
 - [skills/evidence-acquisition/SKILL.md](file:///Users/george/companyintelligence/skills/evidence-acquisition/SKILL.md): Canonical GTM data engine for collecting, normalizing, and indexing public evidence.
+
+---
+
+## 3. Project Administration & Guidelines
+
+Core guidelines, guidelines, and repository administrative parameters for open-source developers and maintainers:
+
+- [ARCHITECTURE.md](file:///Users/george/companyintelligence/ARCHITECTURE.md): System block diagrams, module ownership, and integration flows.
+- [ONBOARDING.md](file:///Users/george/companyintelligence/ONBOARDING.md): Onboarding guide, environment setup, and maintenance protocols.
+- [CONTRIBUTING.md](file:///Users/george/companyintelligence/CONTRIBUTING.md): Standard developer contribution rules, PR templates, and validation checklists.
+- [CHANGELOG.md](file:///Users/george/companyintelligence/CHANGELOG.md): History of revisions, updates, and releases.
+- [ROADMAP.md](file:///Users/george/companyintelligence/ROADMAP.md): Strategic roadmap for V1.1 and V2.0 developments.
+- [LICENSE](file:///Users/george/companyintelligence/LICENSE): MIT Open Source License.
+- [CODEOWNERS](file:///Users/george/companyintelligence/CODEOWNERS): Code ownership registry.

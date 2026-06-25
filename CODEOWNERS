@@ -1,0 +1,14 @@
+# Hermes Codeowners
+
+# Core Repository Maintainers
+*                                       @hermes-core-maintainers
+
+# GTM Skills Ownership
+/skills/                                @hermes-gtm-team
+
+# Specialized Engine Owners
+/skills/osint-expert/                  @hermes-osint-leads
+/skills/evidence-acquisition/           @hermes-evidence-leads
+/CONFIDENCE_ENGINE.md                   @hermes-math-leads
+/SOURCE_VALIDATION.md                   @hermes-validation-leads
+/HEURISTICS.md                          @hermes-heuristics-editors
